@@ -1,5 +1,4 @@
 import urllib2 as url
-import re
 import json
 import os
 fullurl = raw_input("Enter Hotstar URL with ID . eg: 'http://www.hotstar.com/../../../../../2001703793' (ID at the end is important).\nAlternatively Enter just the ID.\n:> ")
